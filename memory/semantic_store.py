@@ -106,7 +106,7 @@ class SemanticStore:
             delay_days=5
         )
     """
-
+   """ 
     def __init__(self):
         # Constructor — runs when store = SemanticStore() is created.
 
@@ -364,6 +364,7 @@ class SemanticStore:
                     results_posted  = sponsor_profiles.results_posted + $2,
                     results_missing = sponsor_profiles.results_missing + $3,
                     broken_promises = sponsor_profiles.broken_promises + $4,
+                    broken_delays = sponsor_profiles.broken_promises + $5,
                     avg_delay_days  = (
                         (sponsor_profiles.avg_delay_days *
                          sponsor_profiles.total_studies) + $5
