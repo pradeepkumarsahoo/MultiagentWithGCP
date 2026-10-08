@@ -1,3 +1,6 @@
+Pradeep Sahoo | Engineering Leader | AI/GenAI | Cloud | Full-Stack | Data Engineering
+Hands-on exploration of AI engineering, multi-agent systems, RAG, cloud-native architectures and modern software engineering.
+
 # MOSAIC — Multi-Agent Clinical Trial Intelligence System
 
 > A production-grade multi-agent AI system that detects research integrity
